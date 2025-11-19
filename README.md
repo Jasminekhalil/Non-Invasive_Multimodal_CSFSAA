@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Non-Invasive_Multimodal_CSFSAA
 Multimodal AI for Predicting and Phenotyping Cerebrospinal Fluid alpha-Synuclein Seed Amplification Assay Status in Parkinson's Disease: a Pilot Study
 =======
@@ -98,4 +97,3 @@ The notebook produces:
 ## Install Dependencies
 
 `pip install pandas seaborn matplotlib shap umap-learn numpy scipy scikit-learn imbalanced-learn`
->>>>>>> 4b73264 (Initial commit)
