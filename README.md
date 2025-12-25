@@ -1,7 +1,6 @@
 # Non-Invasive_Multimodal_CSFSAA
 Multimodal AI for Predicting and Phenotyping Cerebrospinal Fluid alpha-Synuclein Seed Amplification Assay Status in Parkinson's Disease: a Pilot Study
 =======
-# Multimodal AI for Predicting and Phenotyping Cerebrospinal Fluid $\alpha$-Synuclein Status in Parkinson's Disease: a Pilot Study
 
 The "Non-Invasive_Multimodal_CSFSAA.ipynb" notebook implements a **multimodal machine-learning pipeline** for predicting **CSF $\alpha$-synuclein Seed Amplification Assay (CSFSAA)** status using gait, demographics, clinical, and motor sign features from the PPMI study. It combines **top-down feature-group modeling**, **hierarchical motor-sign construction**, and **COHORT-based stratification** to identify early, remote, and objective markers of Parkinson’s disease.
 
